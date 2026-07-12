@@ -267,6 +267,20 @@ git push origin feature/your-idea
 
 <br>
 
+## 🌟 Star History
+
+<div align="center">
+  <a href="https://star-history.com/#ShadowByte01/omni-core&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ShadowByte01/omni-core&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ShadowByte01/omni-core&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ShadowByte01/omni-core&type=Date" />
+    </picture>
+  </a>
+</div>
+
+<br>
+
 ## 📄 License
 
 No license file has been added to this repository yet — until one is, all rights are reserved by default. If you want others to freely use or contribute to OmniCore, consider adding a `LICENSE` file (MIT is a common, permissive choice for projects like this).
