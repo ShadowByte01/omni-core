@@ -40,16 +40,14 @@ built to work with zero internet connection and zero account required.
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><img src="screenshots/dashboard.png" width="100%" alt="Dashboard"><br><sub>Dashboard</sub></td>
-    <td align="center" width="25%"><img src="screenshots/file-manager.png" width="100%" alt="File Manager"><br><sub>File Manager</sub></td>
-    <td align="center" width="25%"><img src="screenshots/gallery.png" width="100%" alt="AI Gallery"><br><sub>AI Gallery</sub></td>
-    <td align="center" width="25%"><img src="screenshots/optimizer.png" width="100%" alt="Optimizer"><br><sub>Optimizer</sub></td>
+    <td align="center" width="33%"><img src="screenshots/dashboard.png" width="100%" alt="Dashboard"><br><sub>Dashboard</sub></td>
+    <td align="center" width="33%"><img src="screenshots/file-manager.png" width="100%" alt="File Manager"><br><sub>File Manager</sub></td>
+    <td align="center" width="33%"><img src="screenshots/gallery.png" width="100%" alt="AI Gallery"><br><sub>AI Gallery</sub></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><img src="screenshots/mail-hub.png" width="100%" alt="Mail Hub"><br><sub>Mail Hub</sub></td>
-    <td align="center" width="25%"><img src="screenshots/omnibeam.png" width="100%" alt="OmniBeam"><br><sub>OmniBeam</sub></td>
-    <td align="center" width="25%"></td>
-    <td align="center" width="25%"></td>
+    <td align="center" width="33%"><img src="screenshots/optimizer.png" width="100%" alt="Optimizer"><br><sub>Optimizer</sub></td>
+    <td align="center" width="33%"><img src="screenshots/mail-hub.png" width="100%" alt="Mail Hub"><br><sub>Mail Hub</sub></td>
+    <td align="center" width="33%"><img src="screenshots/omnibeam.png" width="100%" alt="OmniBeam"><br><sub>OmniBeam</sub></td>
   </tr>
 </table>
 
