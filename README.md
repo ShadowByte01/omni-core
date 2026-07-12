@@ -1,9 +1,3 @@
-<!--
-  OmniCore README
-  Update OWNER/REPO in the badge URLs below (search for "ShadowByte01/OmniCore")
-  once this is pushed, so the star/fork/issue counters point at your repo.
--->
-
 <div align="center">
 
 <img src=".github/assets/banner.png" alt="OmniCore — the sketchy, offline-first file manager for Android" width="100%">
@@ -38,8 +32,6 @@ built to work with zero internet connection and zero account required.
 
 <p align="center">
   <img src="poster/poster.png" alt="OmniCore poster" width="850">
-  <br>
-  <sub><i>↑ replace <code>poster/poster.png</code> with your own feature graphic — recommended size 1024 × 500</i></sub>
 </p>
 
 <br>
@@ -51,17 +43,15 @@ built to work with zero internet connection and zero account required.
     <td align="center" width="25%"><img src="screenshots/dashboard.png" width="100%" alt="Dashboard"><br><sub>Dashboard</sub></td>
     <td align="center" width="25%"><img src="screenshots/file-manager.png" width="100%" alt="File Manager"><br><sub>File Manager</sub></td>
     <td align="center" width="25%"><img src="screenshots/gallery.png" width="100%" alt="AI Gallery"><br><sub>AI Gallery</sub></td>
-    <td align="center" width="25%"><img src="screenshots/smart-trash.png" width="100%" alt="Smart Trash"><br><sub>Smart Trash</sub></td>
+    <td align="center" width="25%"><img src="screenshots/optimizer.png" width="100%" alt="Optimizer"><br><sub>Optimizer</sub></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><img src="screenshots/optimizer.png" width="100%" alt="Optimizer"><br><sub>Optimizer</sub></td>
     <td align="center" width="25%"><img src="screenshots/mail-hub.png" width="100%" alt="Mail Hub"><br><sub>Mail Hub</sub></td>
     <td align="center" width="25%"><img src="screenshots/omnibeam.png" width="100%" alt="OmniBeam"><br><sub>OmniBeam</sub></td>
     <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
   </tr>
 </table>
-
-<p align="center"><sub>Drop your real captures into <code>screenshots/</code> using the same filenames and they'll show up here automatically.</sub></p>
 
 <br>
 
