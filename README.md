@@ -19,7 +19,7 @@
 
 <p>
 A minimal, no-nonsense file manager for Android — hand-sketched, ad-free, and<br>
-built to work with zero internet connection and zero account required.
+built to work with zero internet connection and zero account required...
 </p>
 
 <p>
